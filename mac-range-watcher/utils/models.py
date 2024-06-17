@@ -1,0 +1,10 @@
+class Colors:
+    RED = "#FF0000"
+    GREEN = "#00FF00"
+    BLUE = "#0000FF"
+    YELLOW = "#FFFF00"
+    CYAN = "#00FFFF"
+    MAGENTA = "#FF00FF"
+    WHITE = "#FFFFFF"
+    BLACK = "#000000"
+    ORANGE = "#FFA500"
